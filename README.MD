@@ -1,5 +1,5 @@
 
-# Wikipedia Page
+# Password checker
 
 It is a password checker created using Bootsrap and JavaScript, which checks if the entered pasword is strong. This task was about practising conditional statements.
 
