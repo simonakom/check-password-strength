@@ -1,6 +1,6 @@
 # <span><img src="./pass.png" alt=password style="height: 1em; vertical-align: middle;"></span> Password checker
 
-It is a responsive password checker app created using bootstrap and javascript, which checks if the entered pasword is strong by checking: 
+It is a responsive password checker app created using bootstrap and javascript, which checks if the entered password is strong by checking: 
 - lenght (max/min) of password;
 - if uppercase/lowercase letters are included;
 - if numbers are included;
