@@ -30,7 +30,7 @@ function validatePassword() {
         result.style.backgroundColor = "#cf7a847f";
       } else if (!/[!@#$%^&*(),.?":{}|<>]/.test(password)) {
         isValid = false;
-        result.innerText =  "The password must contain at least one special character";
+        result.innerText = "The password must contain at least one special character";
         result.classList.add('wrong');
         result.style.backgroundColor = "#cf7a847f";
       } else if (isValid) {
